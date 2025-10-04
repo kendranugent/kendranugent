@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+About me: I am a hobby coder with a minor in Computer Programming. I am an artist hoping to become a concept artists in the entertainemtn industry.
+
+Skills: I enjoy Python, HTML, and CSS. I hope to make a video game some day in the future.
+
+Projects: I enjoyed many of the projects I completed in school but have yet to make a personal project. My final project for WDD131 was probably my favorite assignment. I made a website to display and categorise my movie collection.
 <!--
 **kendranugent/kendranugent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
