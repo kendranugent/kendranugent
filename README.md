@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-About me: I am a hobby coder with a minor in Computer Programming. I am an artist hoping to become a concept artists in the entertainemtn industry.
+About me: I am a hobby coder with a minor in Computer Programming. I am an artist hoping to become a concept artists in the entertainemt industry.
 
 Skills: I enjoy Python, HTML, and CSS. I hope to make a video game some day in the future.
 
